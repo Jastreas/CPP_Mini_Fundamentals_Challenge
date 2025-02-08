@@ -22,10 +22,10 @@ Modify the "Hello World" program so that it asks the user for their name and gre
 2. Addition and Subtraction Calculator:
 Create a program that asks the user for two numbers and performs the addition and subtraction of those numbers, displaying the results.
 
-3.Even or Odd Number:
+3. Even or Odd Number:
 Prompts the user to enter a number and determines if it is odd or even.
 
-4.Multiplication Table: -
+4. Multiplication Table: -
 Asks the user for a number and shows their multiplication table from 1 to 10.
 
 5. Vowel Counter:
