@@ -1,6 +1,6 @@
 <hr>
 
-# Project Name
+# CPP Mini FUNdamentals Challenge
 
 ## Description
 This is a small folder of 15 really basic exercises that I've made for practicing Fundamentals in CPP.
