@@ -16,49 +16,49 @@ This is a small folder of 15 really basic exercises that I've made for practicin
 <br><br><hr>
 # Programs
 
-1. Hello Modified World: -
+1. Hello Modified World: [x]
 Modify the "Hello World" program so that it asks the user for their name and greets them in a personalized way.
 
-2. Addition and Subtraction Calculator:
+2. Addition and Subtraction Calculator: [x]
 Create a program that asks the user for two numbers and performs the addition and subtraction of those numbers, displaying the results.
 
-3. Even or Odd Number:
+3. Even or Odd Number: [x]
 Prompts the user to enter a number and determines if it is odd or even.
 
-4. Multiplication Table: -
+4. Multiplication Table: [x]
 Asks the user for a number and shows their multiplication table from 1 to 10.
 
-5. Vowel Counter:
+5. Vowel Counter: [x]
 Create a program that asks the user for a sentence and counts how many vowels there are in it.
 
-6. Word Investor:
+6. Word Investor: [x]
 Asks the user to enter a word and displays the word inverted.
 
-7. Average Numbers:
+7. Average Numbers: []
 Asks the user to enter 5 numbers and calculates the average of those numbers.
 
-8. Temperature Converter:
+8. Temperature Converter: []
 Create a program that converts degrees Celsius to Fahrenheit and vice versa.
 
-9. Guessing Game:
+9. Guessing Game: []
 Create a simple game where the program chooses a random number between 1 and 100, and the user has to guess it. Indicates whether the number entered is greater or less than the secret number.
 
-10. Word Counter:
+10. Word Counter: []
 Asks the user to enter a phrase and counts how many words are in it.
 
-11. Fibonacci:
+11. Fibonacci: []
 Create a program that generates the Fibonacci series up to a number given by the user.
 
-12. Factorial:
+12. Factorial: []
 Asks the user for a number and calculates its factorial.
 
-13. Prime Numbers:
+13. Prime Numbers: []
 Create a program that asks for a number and determines if it is prime or not.
 
-14. Sort Numbers:
+14. Sort Numbers: []
 Ask the user to enter 5 numbers and order them from smallest to largest.
 
-15. Rock, Paper, Scissors Game:
+15. Rock, Paper, Scissors Game: []
 Create a simple game where the user can play against the computer in rock, paper, scissors.
 
 <br><br><hr>
